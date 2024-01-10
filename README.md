@@ -7,8 +7,8 @@
 ## Tools used:
 - Pi-Hole: is used to as a DNS-Sinkhole for filetring ads, trackers, and malious websites. 
 - Snort: is used to as Intrusion Detection System for inspecting network traffic and alerting on Indicator of Compromise
-- OpenMediaVault: is used as a Centralized Management to monitor the system's CPU, Memory, and Disk usage. It also monitor Authenticaion logs.
-- Fail2ban: is used as an Access Control for account lock-out policies.
+- OpenMediaVault: is used as a Centralized Management on monitoring the system's CPU, Memory, and Disk usage. It also monitor Authenticaion logs.
+- Fail2ban: is used as an Access Control for implmenting account lock-out policies.
 - TailScale: is used as VPN for esblishing secure communcation from WAN to LAN while preventing evsdroping attack.
 
 
