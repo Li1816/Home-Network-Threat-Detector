@@ -1,6 +1,7 @@
 # Home Server Network Threat Detector
 
 <p>This programs aims to imporve privacy, detect incicator of compromise, and esblishe secure VPN tunnel of Gonghan's family. It provides various security controls and functinolity by incoparting DNS-Sinkhole, IDS, System Health Montioring, Account lockout and VPN Tunneling. 
+  
 ![github-header-image](https://github.com/Li1816/Home-Server-Network-Threat-Detector/assets/155325489/2eaa419a-ad3d-4075-9f36-7c3e04732826)
   
 ## Tools used:
