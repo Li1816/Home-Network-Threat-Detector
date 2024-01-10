@@ -29,7 +29,7 @@
 
 **Fourthly, the program uses Fail2Ban to implment account lock-out policies for access control.**
 ![image](https://github.com/Li1816/Home-Server-Network-Threat-Detector/assets/155325489/72b6667b-7e0d-4648-bf93-120766f03cf2)
-![Fail2Ban2](https://github.com/Li1816/Home-Server-Network-Threat-Detector/assets/155325489/8480150e-2e88-4cdb-9e08-613d0dea59d7)
+![image](https://github.com/Li1816/Home-Server-Network-Threat-Detector/assets/155325489/0b619f5f-aeab-4bce-9055-981f4837eb66)
 
 **Lastly, it uses TailScale to esblish secure connection between WAN and LAN while preventing evserdropping attack.**
 ![TailScale1](https://github.com/Li1816/Home-Server-Network-Threat-Detector/assets/155325489/0c6cecfc-4a6e-4037-8c7d-b483e0d401ff)
