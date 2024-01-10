@@ -18,7 +18,7 @@
 ![pi_hole1](https://github.com/Li1816/Home-Server-Network-Threat-Detector/assets/155325489/a86436cc-9dc8-4446-93d9-ba3a53482ef2)
 ![pi_hole2](https://github.com/Li1816/Home-Server-Network-Threat-Detector/assets/155325489/bc082801-99c1-4f18-8203-0f460fd67dfa)
 
-**Secondly, it uses Snort's signature detection for inspecting network traffic and alerting when suspicious signature is found.**
+**Secondly, it uses Snort as an IDS for signature detection. Snort inspects network traffic and alerts when suspicious signature is found.**
 ![Snort1](https://github.com/Li1816/Home-Server-Network-Threat-Detector/assets/155325489/826a84d7-3748-45ff-be01-5e5313859b07)
 ![snort2](https://github.com/Li1816/Home-Server-Network-Threat-Detector/assets/155325489/bc234aea-ab60-48f8-9b8d-8804da1ff1ba)
 ![Snort3](https://github.com/Li1816/Home-Server-Network-Threat-Detector/assets/155325489/8cdf79c2-f50b-4d7f-ad6e-52ab8c915fe2)
