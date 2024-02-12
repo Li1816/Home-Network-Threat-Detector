@@ -5,6 +5,7 @@
 <p>This program aims to improve network privacy, detect indicators of compromise, and establish a secure VPN tunnel for Gonghan's family. The program provides various security controls and functionality by incorporating DNS-Sinkhole, IDS, System Health Monitoring, Account Lockout, and VPN Tunneling.  
   
 ## Tools used:
+- Splunk Enterprise is used as a SIEM for Centrlize Management. 
 - Pi-Hole: is used to as a DNS-Sinkhole for filtering ads, trackers, and malicious websites. 
 - Snort: is used as an Intrusion Detection System for inspecting network traffic and alerting on Indicators of Compromise
 - OpenMediaVault: is used as a Centralized Management to monitor the system's CPU, Memory, Disk usage and Authentication. 
@@ -13,6 +14,8 @@
 
 
 ## Security Control Walk-Through:
+
+**Splunk Enterprise**
 
 **Firstly, this program uses Pi-Hole as a DNS Sinkhole for filtering out ads, trackers, and malicious Websites. It also incorporates Cloudflare's DNS 1.1.1.2 for additional malware filtering.**
 ![pi_hole1](https://github.com/Li1816/Home-Server-Network-Threat-Detector/assets/155325489/a86436cc-9dc8-4446-93d9-ba3a53482ef2)
